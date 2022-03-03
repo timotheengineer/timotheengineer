@@ -1,4 +1,5 @@
  # 👋 Helloo,
+ <img src="ElectricalEngineering.jpg">
 -   I’m an electrical engineer by profession
 -   I am the CEO TYMESLESS TECHNOLOGY, a company dealing with computer systems and maintenance
 -   I am also a technical sales engineer and dealer in electrical and electronic equipment.
